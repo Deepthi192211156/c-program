@@ -10,6 +10,7 @@ check upper case and lower case alphabets![image](https://user-images.githubuser
 convert decimal to binary number
 count digits in a given integer
 find minimum number of denomination for given amount
-sum of given numbers
+sum of given numbers![Screenshot 2023-03-28 224621](https://user-images.githubusercontent.com/122254229/228319743-1fd5add1-a346-4e83-ab53-51db9013e6f5.png)
+
 reversing a number![image](https://user-images.githubusercontent.com/122254229/228318980-dc1391db-6b34-4f11-ac18-f7c2b699fff5.png)
 
