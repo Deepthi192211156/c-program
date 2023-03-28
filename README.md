@@ -1,5 +1,6 @@
 to count the vowels in the given string
-check character is alphabet or not
+check character is alphabet or not![image](https://user-images.githubusercontent.com/122254229/228316131-eba5e6a9-4d08-492f-9a73-55b1697838d6.png)
+
 check number divisible by 5 or 11(![image](https://user-images.githubusercontent.com/122254229/228315851-70fe00bc-516f-4805-ae63-7eecb64cfd98.png)
 
 check number is positive or negative or zero(![image](https://user-images.githubusercontent.com/122254229/228315568-ee3869db-3d54-4f1b-aa20-ea206e573b61.png)
