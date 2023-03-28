@@ -10,8 +10,7 @@ check upper case and lower case alphabets![image](https://user-images.githubuser
 convert decimal to binary number![image](https://user-images.githubusercontent.com/122254229/228319982-c91e0531-09cd-44c4-a6fc-ec3f27280310.png)
 
 count digits in a given integer![image](https://user-images.githubusercontent.com/122254229/228320258-323da3a2-5195-47a9-8db4-eb94089b5244.png)
-
-find minimum number of denomination for given amount
+     
 sum of given numbers![Screenshot 2023-03-28 224621](https://user-images.githubusercontent.com/122254229/228319743-1fd5add1-a346-4e83-ab53-51db9013e6f5.png)
 
 reversing a number![image](https://user-images.githubusercontent.com/122254229/228318980-dc1391db-6b34-4f11-ac18-f7c2b699fff5.png)
