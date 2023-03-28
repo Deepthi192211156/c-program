@@ -8,7 +8,8 @@ check upper case and lower case alphabets![image](https://user-images.githubuser
 
 convert decimal to binary number![image](https://user-images.githubusercontent.com/122254229/228317232-2c199d13-ea2e-4127-adb8-ce4408adebb4.png)
 
-count digits in a given integer
+count digits in a given integer![image](https://user-images.githubusercontent.com/122254229/228317832-5a33290f-c7ba-4ec3-bb7f-2af03103fd5a.png)
+
 find minimum number of denomination for given amount
 sum of given numbers
 to count vowels in the given string
