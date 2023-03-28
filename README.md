@@ -15,3 +15,4 @@ sum of given numbers![Screenshot 2023-03-28 224621](https://user-images.githubus
 
 reversing a number![image](https://user-images.githubusercontent.com/122254229/228318980-dc1391db-6b34-4f11-ac18-f7c2b699fff5.png)
 
+denomination of a number![image](https://user-images.githubusercontent.com/122254229/228321096-0e75e2a4-f8d4-4567-9607-6da450e02507.png)
